@@ -1,4 +1,5 @@
 # learn python: https://www.learnpython.org/en/Classes_and_Objects
+# learn python https://www.programiz.com/python-programming/class
 
 # define the Vehicle class
 class Vehicle:
