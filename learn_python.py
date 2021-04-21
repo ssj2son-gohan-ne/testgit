@@ -1,5 +1,6 @@
 # learn python: https://www.learnpython.org/en/Classes_and_Objects
-# learn python https://www.programiz.com/python-programming/class
+# learn python: https://www.programiz.com/python-programming/class
+# understand "self" https://medium.com/quick-code/understanding-self-in-python-a3704319e5f0
 
 # define the Vehicle class
 class Vehicle:
